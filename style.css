@@ -4,6 +4,10 @@
 body{
     margin: 0px; /*Margem externa*/
     padding: 0px; /*Margem interna*/
+    border: 1px;
+    border-color: #BABABA;
+    background: linear-gradient(180deg, rgba(12, 112, 242, 0.5) 19.91%, rgba(12, 112, 242, 0) 24.84%), #303030;
+    background-repeat: no-repeat;
 }
 #upper_nav_bar{
     width: 100%;
@@ -42,3 +46,4 @@ body{
         color: #FFFFFF;
         cursor: pointer;
     }
+   
